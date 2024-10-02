@@ -26,6 +26,6 @@ I'm a **Cloud Computing student** with a focus on **IT** and creating cloud-base
 
 ## Get in Touch
 - 📫 **Email**: mickelsen.emilie@gmail.com
-- 🌐 [LinkedIn] (https://www.linkedin.com/in/emilie-mickelsen/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/emilie-mickelsen/)
 
 Thanks for visiting my profile! 😊
