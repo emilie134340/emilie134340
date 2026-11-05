@@ -1,7 +1,7 @@
 # Hi there, I'm Emilie Mickelsen 👋
 
 ## About Me
-I'm a **Cloud Computing student** with a focus on **IT** and creating cloud-based solutions for everyday problems. I enjoy working on projects that involve **secure, containerized, and decoupled web applications**. Currently transitioning from **CIT** to a more cloud-focused study path, I'm passionate about leveraging cloud technologies to create innovative solutions.
+I'm a **Cloud Computing graduate** with a focus on **IT** and creating cloud-based solutions for everyday problems. I enjoy working on projects that involve **secure, containerized, and decoupled web applications**. Currently transitioning from **CIT** to a more cloud-focused study path, I'm passionate about leveraging cloud technologies to create innovative solutions.
 
 ## What I'm Working On
 🔧 I'm currently building a **dynamic web application** that helps individuals in substance use treatment programs identify protective factors, coping skills, and triggers. This app involves:
